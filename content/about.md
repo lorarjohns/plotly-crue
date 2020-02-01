@@ -1,29 +1,24 @@
 +++
-title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+aliases = ["contact"]
+author = "The Plötly Crüe"
+date = 2019-02-28T00:00:00Z
+description = "Resources for studying machine learning in depth"
 feature_image = "/images/hugo.png"
+title = "About"
+
 +++
+This site is a [GitHub](https://github.com/lorarjohns/plotly-crue/) repository of resources, blog posts, and tutorials for self-study and professional development in Machine Learning, Data Science, and Natural Language Processing.
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+It's difficult enough to keep up with the state of the art for seasoned professionals, let alone for those engaged in self-study or who find themselves feeling like their bootcamp education left important topics unexplored. Examples of what we will cover include:
 
-Hugo makes use of a variety of open source projects including:
+* The pragmatic workflow of a data science project
+* Working in a team with git and Github
+* The essential math and algorithms you should study
+* Virtual environments, Docker, Kubernetes, and why they're important
+* Bash, Unix, and getting comfortable with the command line
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Fairly or not, both depth and breadth are expected in the job search, so we'll tag things appropriately and provide roadmaps as best we can for you to choose your own adventure. We'll also strive to provide pragmatic advice on career changing, carving out a niche that works for you, and taking care of your well-being in the meantime.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+The field of natural language processing is accelerating rapidly, and this site's creator works in that field, so expect plenty of content in that direction. Much of the techniques and architectures apply to other types of unstructured data; to image processing and computer vision; and to entire paradigms, such as auto-ML and reinforcement learning.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
-
-
+Feel free to contribute or leave comments or suggestions as issues on our [GitHub page](https://github.com/lorarjohns/plotly-crue/issues).
