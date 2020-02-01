@@ -5,6 +5,10 @@ date = 2019-02-28T00:00:00Z
 description = "Resources for studying machine learning in depth"
 feature_image = "/images/hugo.png"
 title = "About"
+[menu.main]
+identifier = "author"
+name = "Author Homepage"
+weight = 2
 
 +++
 This site is a [GitHub](https://github.com/lorarjohns/plotly-crue/) repository of resources, blog posts, and tutorials for self-study and professional development in Machine Learning, Data Science, and Natural Language Processing.
