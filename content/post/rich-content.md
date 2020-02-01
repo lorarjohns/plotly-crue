@@ -2,6 +2,7 @@
 author = "Hugo Authors"
 date = 2019-03-10T00:00:00Z
 description = "A brief description of Hugo Shortcodes"
+draft = true
 feature_image = "/images/kelly-sikkema-8RWZ93hLktI-unsplash.jpg"
 tags = ["shortcodes", "privacy"]
 title = "Rich Content"
