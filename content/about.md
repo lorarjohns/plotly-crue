@@ -11,8 +11,8 @@ This site is a [GitHub](https://github.com/lorarjohns/plotly-crue/) repository o
 
 It's difficult enough to keep up with the state of the art for seasoned professionals, let alone for those engaged in self-study or who find themselves feeling like their bootcamp education left important topics unexplored. Examples of what we will cover include:
 
-* The pragmatic workflow of a data science project
-* Working in a team with git and Github
+* Training, testing, and validating models, and tuning hyperparameters
+* Working in a team with git, Github, and version control
 * The essential math and algorithms you should study
 * Virtual environments, Docker, Kubernetes, and why they're important
 * Bash, Unix, and getting comfortable with the command line
