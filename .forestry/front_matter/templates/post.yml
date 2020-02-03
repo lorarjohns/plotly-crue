@@ -23,5 +23,3 @@ fields:
 - type: file
   name: feature_image
   label: feature_image
-pages:
-- content/Resources/git-and-github.md
