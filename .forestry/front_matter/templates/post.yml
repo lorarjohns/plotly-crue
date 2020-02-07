@@ -24,4 +24,5 @@ fields:
   name: feature_image
   label: feature_image
 pages:
+- content/Technical Challenge Corner/about.md
 - content/post/git-and-github.md
